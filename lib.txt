@@ -1,0 +1,312 @@
+Title: Abnormal psychology, Author: Oltmanns Thomas F, Publisher: Pearson, Subject: Psychology
+Title: Ad Hoc Wireless Networks: Architectures and Protocols, Author: Murthy, Publisher: Pearson, Subject: CSE Engg.
+Title: Advanced Host Intrusion Prevention with CSA, Author: Sullivan, Publisher: Pearson, Subject: CSE Engg.
+Title: Advanced PHP Programming, Author: Schlossnagle, Publisher: Pearson, Subject: CSE Engg.
+Title: Advanced Programming in the UNIX Environment, Author: W. Richard Stevens; Stephen A. Rago, Publisher: Pearson, Subject: CSE Engg.
+Title: Advanced UNIX Programming, Author: Rochkind, Publisher: Pearson, Subject: CSE Engg.
+Title: Algebra, Author: Artin, Publisher: Pearson, Subject: Mathematics
+Title: Artificial Intelligence: A Guide to Intelligent Systems, Author: Negnevitsky, Publisher: Pearson, Subject: CSE Engg.
+Title: Artificial Intelligence: Structures and Strategies for Complex Problem Solving, Author: Luger, Publisher: Pearson, Subject: CSE Engg.
+Title: Assemble the Social Web with zembly, Author: Anderson et al., Publisher: Pearson, Subject: CSE Engg.
+Title: Basic civil engineering, Author: Gopi Satheesh, Publisher: Pearson, Subject: Civil Engg.
+Title: Basic electrical and Electronics Engineering, Author: Bhattacharya S K, Publisher: Pearson, Subject: Electrical Engg.
+Title: Biochemistry for Lifesciences, Author: Bhardwaj, Publisher: Pearson, Subject: Chemistry
+Title: Build a Website for Free, Author: Bell, Publisher: Pearson, Subject: CSE Engg.
+Title: Business Forecasting, Author: Hanke;Wichern, Publisher: Pearson, Subject: Management
+Title: Business research methods, Author: Bajpai Naval, Publisher: Pearson, Subject: Management
+Title: C: How to program, Author: Deital. P. J and Deitel. H. M, Publisher: Pearson, Subject: CSE Engg.
+Title: Calculus - Differentiation and Integration, Author: ICFAI, Publisher: Pearson, Subject: Mathematics
+Title: Calculus for the Life Sciences: Global Edition, Author: Greenwell;Ritchey;Lial, Publisher: Pearson, Subject: Mathematics
+Title: Chemistry at a Glance, Author: Mishra, Publisher: Pearson, Subject: Chemistry
+Title: Chemistry for JEE Mains 2019, Author: Atul Singhal, Publisher: Pearson, Subject: Chemistry
+Title: Chemistry of Hazardous Materials, Author: Meyer, Publisher: Pearson, Subject: Chemistry
+Title: Cloud Computing and SOA Convergence in Your Enterprise: A Step-by-Step Guide, Author: Linthicum, Publisher: Pearson, Subject: CSE Engg.
+Title: Cloud Computing: Web-Based Applications That Change the Way You Work and Collaborate Online, Author: Miller, Publisher: Pearson, Subject: CSE Engg.
+Title: Collaborative Web Development: Strategies and Best Practices for Web Teams, Author: Burdman, Publisher: Pearson, Subject: CSE Engg.
+Title: Communication Skills for Engineers, Author: Mishra S. and Muralikrishna C., Publisher: Pearson, Subject: English
+Title: Compilers, Author: Aho Alfred V, Publisher: Pearson, Subject: CSE Engg.
+Title: CompTIA Security+ Exam Cram, Author: Barrett;Hausman;Weiss, Publisher: Pearson, Subject: CSE Engg.
+Title: Computer Organization and Architecture, Author: Stallings, Publisher: Pearson, Subject: CSE Engg.
+Title: Computer Systems Architecture : a Networking Approach, Author: Williams, Publisher: Pearson, Subject: CSE Engg.
+Title: Computer Vision, Author: Forsyth, Publisher: Pearson, Subject: CSE Engg.
+Title: Computing with Python, Author: FÃ¼hrer, Publisher: Pearson, Subject: CSE Engg.
+Title: Conceptual Problems in Organic Chemistry : for Engineering and Medical Entrance Examinations, Author: Singh, Publisher: Pearson, Subject: Chemistry
+Title: Construction Scheduling: Principles and Practices, Author: Newitt, Publisher: Pearson, Subject: Civil Engg.
+Title: Consumer Behaviour : The Indian Context (Concepts and Cases), Author: Ramesh Kumar, Publisher: Pearson, Subject: Management      
+Title: Control Systems, Author: Bhattacharya, Publisher: Pearson, Subject: CSE Engg.
+Title: Core Python Application Programming, Author: Chun, Publisher: Pearson, Subject: CSE Engg.
+Title: Cryptography and Network Security, Author: Kumar; Bose, Publisher: Pearson, Subject: CSE Engg.
+Title: CUDA by Example: An Introduction to General-Purpose GPU Programming, Author: Sanders;Kandrot, Publisher: Pearson, Subject: CSE Engg.
+Title: Data and computer communications, Author: Stallings William, Publisher: Pearson, Subject: CSE Engg.
+Title: Data Mining: Introductory and Advanced Topics, Author: Dunham / Sridhar, Publisher: Pearson, Subject: CSE Engg.
+Title: Database systems, Author: Elmasri Ramez, Publisher: Pearson, Subject: CSE Engg.
+Title: Database Systems: The Complete Book, Author: Ullman;Widom;Garcia-Molina, Publisher: Pearson, Subject: CSE Engg.
+Title: "DB2 Developers Guide", Author: Mullins, Publisher: Pearson, Subject: CSE Engg.
+Title: Designing for Interaction: Creating Innovative Applications and Devices, Author: Saffer, Publisher: Pearson, Subject: CSE Engg.  
+Title: Digital design, Author: Mano Morris, Publisher: Pearson, Subject: Electronics Engg.
+Title: Digital Logic and Computer Design, Author: Mano, Publisher: Pearson, Subject: Electrical Engg.
+Title: Digital System Design with SystemVerilog, Author: Zwolinski, Publisher: Pearson, Subject: Electrical Engg.
+Title: Discrete and Combinatorial Mathematics, Author: Grimaldi, Publisher: Pearson, Subject: Mathematics
+Title: Discrete time signal processing, Author: Oppenheim Alan V, Publisher: Pearson, Subject: Electronics Engg.
+Title: "Dont Make Me Think: A Common Sense Approach to Web Usability", Author: Krug, Publisher: Pearson, Subject: CSE Engg.
+Title: Electrical and Electronic Technology, Author: Hughes E., Publisher: Pearson, Subject: Electrical Engg.
+Title: Electronic devices and circuit theory, Author: Boylestad Robert L, Publisher: Pearson, Subject: Electronics Engg.
+Title: Employment Law, Author: Davies, Publisher: Pearson, Subject: Management
+Title: Employment Law in Context, Author: Willey, Publisher: Pearson, Subject: Management
+Title: End-to-End Network Security: Defense-in-Depth, Author: Santos, Publisher: Pearson, Subject: CSE Engg.
+Title: Engineering Mathematics, Author: Ram, Publisher: Pearson, Subject: Mathematics
+Title: Engineering mathematics, Author: Das P Sivaramakrishna, Publisher: Pearson, Subject: Mathematics
+Title: Engineering Mathematics - III : For RTU, Author: Ram;Purohit, Publisher: Pearson, Subject: Mathematics
+Title: Essential Linux Device Drivers, Author: Venkateswaran, Publisher: Pearson, Subject: CSE Engg.
+Title: Excel Modeling in Corporate Finance, Author: Holden, Publisher: Pearson, Subject: Management
+Title: Exchange Rates and International Finance, Author: Copeland, Publisher: Pearson, Subject: Management
+Title: Forensic Science, Author: Jackson;Jackson;Mountain, Publisher: Pearson, Subject: Chemistry
+Title: From Idea to Web Startup in 21 Days: Creating bacn.com, Author: Glaspey;Kveton, Publisher: Pearson, Subject: CSE Engg.
+Title: From Physiology and Chemistry to Biochemistry, Author: Burma;Chakraworty, Publisher: Pearson, Subject: Chemistry
+Title: Fundamentals of Financial Management, Author: Sharan, Publisher: Pearson, Subject: Management
+Title: Fundamentals of web development, Author: Randy Connolly, Publisher: Pearson, Subject: CSE Engg.
+Title: "GATE Topic-wise Previous Years Solved Question Papers Engineering Mathematics 2022", Author: Rathi, Publisher: Pearson, Subject: Mathematics
+Title: General Chemistry, Author: Ekambaram, Publisher: Pearson, Subject: Chemistry
+Title: Google Web Toolkit Applications, Author: Dewsbury, Publisher: Pearson, Subject: CSE Engg.
+Title: Guide to LaTeX, Author: Kopka;Daly, Publisher: Pearson, Subject: CSE Engg.
+Title: IIT Found Chem Prac Book 10, Author: Trishna, Publisher: Pearson, Subject: Chemistry
+Title: Inorganic Chemistry, Author: Housecroft; Sharpe, Publisher: Pearson, Subject: Chemistry
+Title: Internet of Things, Author: Ramgir, Publisher: Pearson, Subject: CSE Engg.
+Title: Introducation to finite elements in engineering, Author: Chandruputla tirupathi R, Publisher: Pearson, Subject: Mechanical Engg. 
+Title: Introduction to Biochemistry and Metabolism, Author: Anandhi, Publisher: Pearson, Subject: Chemistry
+Title: Introduction to biopsychology, Author: Pinel John P J, Publisher: Pearson, Subject: Psychology
+Title: Introduction to Computer Security, Author: Bishop, Publisher: Pearson, Subject: CSE Engg.
+Title: Introduction to data mining, Author: Pang-Ning Tan, Publisher: Pearson, Subject: CSE Engg.
+Title: Introduction to Soft Computing: Neuro-Fuzzy and Genetic Algorithms, Author: Samir Roy/ Udit Chakraborty, Publisher: Pearson, Subject: CSE Engg.
+Title: Introduction to the Design and Analysis of Algorithms, Author: Levitin, Publisher: Pearson, Subject: CSE Engg.
+Title: Introductory Chemistry, Author: Tro, Publisher: Pearson, Subject: Chemistry
+Title: JEE Chem 2020 Mod 1-e, Author: Motion Education Pvt Ltd, Publisher: Pearson, Subject: Chemistry
+Title: JEE Chem 2021 Mod 1-e, Author: Pearson, Publisher: Pearson, Subject: Chemistry
+Title: LATEX Notes: Practical Tips for Preparing Technical Documents, Author: Shultis, Publisher: Pearson, Subject: CSE Engg.
+Title: Linear Algebra and applications, Author: Lay David C, Publisher: Pearson, Subject: Mathematics
+Title: Linux Kernel Development, Author: Love, Publisher: Pearson, Subject: CSE Engg.
+Title: Machine Learning, Author: Dutt, Publisher: Pearson, Subject: Computer App.
+Title: Machine Learning in Production, Author: Kelleher, Publisher: Pearson, Subject: CSE Engg.
+Title: Management of Banking & Financial Services, Author: Suresh; Paul, Publisher: Pearson, Subject: Management
+Title: Managerial Decision Modeling with Spreadsheets, Author: Balakrishnan;RenderStair, Publisher: Pearson, Subject: Business Administ.
+Title: Manufacturing Engineering and Technology, Author: Kalpakjian Serope, Publisher: Pearson, Subject: Mechanical Engg.
+Title: Marketing manaement, Author: Kotler Philip, Publisher: Pearson, Subject: Management
+Title: Marketing research, Author: Malhotra Naresh K, Publisher: Pearson, Subject: Management
+Title: Mastering Matlab 7, Author: Duane Hanselman and Bruce Littlefield, Publisher: Pearson, Subject: CSE Engg.
+Title: Microeconomics, Author: Pindyck Robert, Publisher: Pearson, Subject: Economics
+Title: Mobile IP Technology and Applications, Author: Raab, Publisher: Pearson, Subject: CSE Engg.
+Title: Modern control engineering, Author: Ogata Katsuhik, Publisher: Pearson, Subject: Electronics Engg.
+Title: Modern Power System Analysis with MATLABÂ® Applications, Author: Jegatheesan, Publisher: Pearson, Subject: Electrical Engg.      
+Title: Modular Web Design: Creating Reusable Components for User Experience Design and Documentation, Author: Curtis, Publisher: Pearson, Subject: CSE Engg.
+Title: Molecular Spectrocopy, Author: Dogra, Publisher: Pearson, Subject: Biosciences
+Title: Multiple Regression and Beyond, Author: Keith, Publisher: Pearson, Subject: CSE Engg.
+Title: NEET Obj Chem Vol 2, Author: A.K Singhal, Publisher: Pearson, Subject: Chemistry
+Title: Numerical Analysis, Author: Das / Vijayakumari, Publisher: Pearson, Subject: Mathematics
+Title: Numerical methods, Author: Ram Babu, Publisher: Pearson, Subject: Mathematics
+Title: Op amps and linear integrated circuits, Author: Gayakwad Ramakant A, Publisher: Pearson, Subject: Electronics Engg.
+Title: Operating Systems: Design and Implementation, Author: Tanenbaum;Woodhull, Publisher: Pearson, Subject: CSE Engg.
+Title: Organization behavior, Author: Robbins Stephen P, Publisher: Pearson, Subject: Management
+Title: P, Author: Bharti V Pathak, Publisher: Pearson, Subject: Business Administ.
+Title: Personal Finance: Turning Money into Wealth, Author: Keown, Publisher: Pearson, Subject: Management
+Title: Pharmaceutical Physical Chemistry: Theory and Practices, Author: Bhasin, Publisher: Pearson, Subject: Chemistry
+Title: PHYSICAL CHEMISTRY, Author: ENGEL, Publisher: Pearson, Subject: Chemistry
+Title: Physiology of behavior, Author: Neil R. Carlson, Publisher: Pearson, Subject: Psychology
+Title: PowerPivot for the Data Analyst: MicrosoftÂ® Excel 2010, Author: Jelen, Publisher: Pearson, Subject: CSE Engg.
+Title: Principles of marketing, Author: Kotler Philip, Publisher: Pearson, Subject: Management
+Title: Probability & Statistics for Engineers & Scientists, Author: Walpole;Myers;Myers, Publisher: Pearson, Subject: Mathematics       
+Title: Probability and statistics for engineers, Author: Richard A. Johnson, Publisher: Pearson, Subject: Mathematics
+Title: Problems and solutions in Physical Chemistry for JEE M, Author: Neeraj Kumar, Publisher: Pearson, Subject: Chemistry
+Title: Programming In C, Author: Kamthane Ashok N;Kamthane Amit Ashok, Publisher: Pearson, Subject: CSE Engg.
+Title: Programming in Objective-C 2.0, Author: Kochan, Publisher: Pearson, Subject: CSE Engg.
+Title: Psychology, Author: .Robert A., Publisher: Pearson, Subject: Psychology
+Title: Real World Video Compression, Author: Beach, Publisher: Pearson, Subject: CSE Engg.
+Title: Refactoring to Patterns, Author: Kerievsky, Publisher: Pearson, Subject: CSE Engg.
+Title: Search Engines: Information Retrieval in Practice, Author: Croft;Metzler;Strohman, Publisher: Pearson, Subject: CSE Engg.        
+Title: Secure Coding in C and C++, Author: Seacord, Publisher: Pearson, Subject: CSE Engg.
+Title: Securing PHP Web Applications, Author: Ballad, Publisher: Pearson, Subject: CSE Engg.
+Title: Social psychology, Author: Baron Robert A, Publisher: Pearson, Subject: Psychology
+Title: SocialCorp: Social Media Goes Corporate, Author: Postman, Publisher: Pearson, Subject: CSE Engg.
+Title: Software Language Engineering: Creating Domain-Specific Languages Using Metamodels, Author: Kleppe, Publisher: Pearson, Subject: CSE Engg.
+Title: Structural Analysis, Author: Hibbeler, Publisher: Pearson, Subject: CSE Engg.
+Title: Structured Computer Organization 6e, Author: Tanenbaum / Austin, Publisher: Pearson, Subject: CSE Engg.
+Title: Textbook on Applied Chemistry (BPUT), Author: Achyutananda;Samantaray, Publisher: Pearson, Subject: Chemical Engg.
+Title: The elements of immunology, Author: Khan Fahim Halim, Publisher: Pearson, Subject: Biosciences
+Title: The Pearson Guide to Organic Chemistry for the JEE Advanced, Author: Singhal, Publisher: Pearson, Subject: Chemistry
+Title: Theories of counseling and psychotherapy, Author: seligman Linda, Publisher: Pearson, Subject: Psychology
+Title: Total Quality Management, Author: Charantimath, Publisher: Pearson, Subject: Management
+Title: Unix and Linux: Visual QuickStart Guide, Author: Ray;Ray, Publisher: Pearson, Subject: CSE Engg.
+Title: Using LinkedInÂ®, Author: Rutledge, Publisher: Pearson, Subject: CSE Engg.
+Title: Voice over IP Fundamentals, Author: Davidson, Publisher: Pearson, Subject: CSE Engg.
+Title: Windows PowerShell Unleashed, Author: Kopczynski;Handley;Shaw, Publisher: Pearson, Subject: CSE Engg.
+Title: Wireless communications, Author: Theodore S. Rappapoort, Publisher: Pearson, Subject: Electronics Engg.
+Title: WordPress: Visual QuickStart Guide, Author: Neuman;Beck;Beck, Publisher: Pearson, Subject: CSE Engg.
+Title: Applied Machine Learning EB, Author: GOPAL, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Basic and applied thermodynamics, Author: Nag P K, Publisher: Mc Graw Hill, Subject: Mechanical Engg.
+Title: BASIC CIVIL ENGG - DEEMED EB, Author: PALANICHAMY, Publisher: Mc Graw Hill, Subject: Civil Engg.
+Title: Basic electrical engineering, Author: Kothari D P, Publisher: Mc Graw Hill, Subject: Electrical Engg.
+Title: Basic Electrical Engineering EB, Author: Kulshreshtha, Publisher: Mc Graw Hill, Subject: Electrical Engg.
+Title: BASIC STRUCTURAL ANALYSIS EB, Author: REDDY, Publisher: Mc Graw Hill, Subject: Civil Engg.
+Title: BIOREACTORS: ANALYSIS AND DESIGN  EXP, Author: PANDA & GHOSH, Publisher: Mc Graw Hill, Subject: Chemical Engg.
+Title: BUILDING CONSTRUCTION EB, Author: KANT, Publisher: Mc Graw Hill, Subject: Civil Engg.
+Title: Business statistics, Author: Vohra N D, Publisher: Mc Graw Hill, Subject: Management
+Title: CLOUD COMPUTING A PRACTITIONER GUIDE-EB, Author: DOSS, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: COMPUTER FUNDAMENTALS AND C PROGRAMMING  EB, Author: DAS, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Computing fundamentals and C programming, Author: Balagurusamy. E, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: CONSTRUCTION PROJECT MGMT EB, Author: Chitkara, Publisher: Mc Graw Hill, Subject: Civil Engg.
+Title: Cost accounting, Author: Jawahar Lal, Publisher: Mc Graw Hill, Subject: Management
+Title: DATA ANALYTICS EB, Author: Maheshwari, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: DATA ANALYTICS USING R EB, Author: ACHARYA, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Data communications & networking, Author: Forouzan Behrouz A, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Data Science and Machine Learning in R EB, Author: Thareja, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Database system concept, Author: Abraham Silberschatz, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Design of Machine Elements, Author: Bhandari V B, Publisher: Mc Graw Hill, Subject: Mechanical Engg.
+Title: DIGITAL ELECTRONICS - AU 2018 EB, Author: MANDAL, Publisher: Mc Graw Hill, Subject: Electrical Engg.
+Title: Digital image processing, Author: Jayaraman S, Publisher: Mc Graw Hill, Subject: Electronics Engg.
+Title: Digital signal processing, Author: S. Salivahanan, Publisher: Mc Graw Hill, Subject: Electronics Engg.
+Title: Discrete mathematics, Author: Veerarajan T., Publisher: Mc Graw Hill, Subject: Mathematics
+Title: Discrete mathematics and applications, Author: Rosen Kenneth, Publisher: Mc Graw Hill, Subject: Mathematics
+Title: EBOOK AUDITING & ASSURANCE SERVICES: A SYSTEMATIC APPROACH, Author: MESSIER JR, Publisher: Mc Graw Hill, Subject: Business Administration
+Title: EBOOK FLUID MECHANICS FOR CHEMICAL ENGINEERS 4E, Author: DE NEVERS, Publisher: Mc Graw Hill, Subject: Chemical Engg.
+Title: EBOOK FOUNDATIONS IN MICROBIOLOGY BASIC PRINCIPLES 11E, Author: CHESS, Publisher: Mc Graw Hill, Subject: Biosciences
+Title: EBOOK ORGANIC CHEMISTRY, Author: CAREY, Publisher: Mc Graw Hill, Subject: Chemistry
+Title: ELECTRIC MACHINES EB, Author: KOTHARI, Publisher: Mc Graw Hill, Subject: Electrical Engg.
+Title: Engineering chemistry, Author: Palanna O G, Publisher: Mc Graw Hill, Subject: Chemistry
+Title: Engineering Drawing with an Introduction to AutoCAD, Author: Jolhe Dhananjay, Publisher: Mc Graw Hill, Subject: Engineering Graphics
+Title: ENGINEERING ELECTROMAGNETICS (SIE) EB, Author: Hayt, Publisher: Mc Graw Hill, Subject: Electrical Engg.
+Title: Engineering physics, Author: Malik Hitendra K, Publisher: Mc Graw Hill, Subject: Physics
+Title: Engineering thermodynamics, Author: Nag P K, Publisher: Mc Graw Hill, Subject: Mechanical Engg.
+Title: Financial management, Author: Khan M Y, Publisher: Mc Graw Hill, Subject: Management
+Title: Heat and mass transfer fundamentals & applications, Author: Cengel Yunus A, Publisher: Mc Graw Hill, Subject: Mechanical Engg.   
+Title: Higher engineering mathematics, Author: Ramana B V, Publisher: Mc Graw Hill, Subject: Mathematics
+Title: Human development, Author: Papalia Diane F, Publisher: Mc Graw Hill, Subject: Psychology
+Title: Human resource management, Author: Aswathappa K, Publisher: Mc Graw Hill, Subject: Management
+Title: HVDC Transmission EB, Author: Kamakshaiah, Publisher: Mc Graw Hill, Subject: Electrical Engg.
+Title: INSTRUMENTATION MEASUREMENT & ANALYSIS EB, Author: NAKRA & CHAUDHARY, Publisher: Mc Graw Hill, Subject: Electrical Engg.
+Title: Internet of Things: Architecture and Design Principles, Author: Raj Kamal, Publisher: Mc Graw Hill, Subject: Computer Science    
+Title: INTRO. TO COMP & PROB SOLVING USING PYTHON EB, Author: BALAGURUSAMY, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Introduction to chemical processes, Author: Murphy Regina, Publisher: Mc Graw Hill, Subject: Chemical Engg.
+Title: Life-SPAN development, Author: Santrock John W, Publisher: Mc Graw Hill, Subject: Psychology
+Title: Machine design data book, Author: Bhandari V B, Publisher: Mc Graw Hill, Subject: Mechanical Engg.
+Title: Macroeconomics, Author: Dwivedi D N, Publisher: Mc Graw Hill, Subject: Economics
+Title: Management accounting, Author: Khan M Y, Publisher: Mc Graw Hill, Subject: Management
+Title: Manufacturing technology, Author: Rao P N, Publisher: Mc Graw Hill, Subject: Mechanical Engg.
+Title: Metrology & mesurement, Author: Bewoor Anand K, Publisher: Mc Graw Hill, Subject: Mechanical Engg.
+Title: Numerical methods, Author: Veerarajan T, Publisher: Mc Graw Hill, Subject: Mathematics
+Title: Object oriented programming with C ++, Author: Balagurusamy E, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Optics, Author: Ghatak Ajay, Publisher: Mc Graw Hill, Subject: Physics
+Title: POLYMER SCEINCE AND TECHNOLOGY  EXP, Author: GHOSH, Publisher: Mc Graw Hill, Subject: Chemical Engg.
+Title: POW SYS PROT & SWITCHGEAR EB, Author: BADRI RAM, Publisher: Mc Graw Hill, Subject: Electrical Engg.
+Title: POWER SYSTEM ENGINEERING 2E EB, Author: KOTHARI & NAGRATH, Publisher: Mc Graw Hill, Subject: Electrical Engg.
+Title: "Prescotts Microbiology", Author: Joanne Willey; Kathleen Sandman; Dorothy Wood, Publisher: Mc Graw Hill, Subject: Biosciences    
+Title: PRESTRESSED CONCRETE  EB, Author: KRISHNA RAJU, Publisher: Mc Graw Hill, Subject: Civil Engg.
+Title: Programmable Logic Controllers, Author: Frank Petruzella, Publisher: Mc Graw Hill, Subject: Electrical Engg.
+Title: Programming in ANSI, Author: Balagurusamy E, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Programming with java a primer, Author: Balagurusamy E, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Reinforced Concrete Design EB, Author: Pillai, Publisher: Mc Graw Hill, Subject: Civil Engg.
+Title: SOFT COMOPUTING EB, Author: KAUSHIK, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Softwere engineering, Author: Pressman Roger S, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Statistical Methods, Author: Das N G, Publisher: Mc Graw Hill, Subject: Mathematics
+Title: STOICHIOMETRY 5E EB, Author: BHATT, Publisher: Mc Graw Hill, Subject: Chemical Engg.
+Title: Strategic management, Author: Kazmi Azhar, Publisher: Mc Graw Hill, Subject: Management
+Title: STRUCT ANAL SI UNITS 2E EB, Author: PANDIT/GUPTA, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: Surveying - Vol. 1 EB, Author: Duggal, Publisher: Mc Graw Hill, Subject: Civil Engg.
+Title: Theory machines, Author: Rattan S S, Publisher: Mc Graw Hill, Subject: Mechanical Engg.
+Title: Thermodynamics, Author: Cengel Yunus A, Publisher: Mc Graw Hill, Subject: Mechanical Engg.
+Title: TOTAL QUALITY MANAGEMENT EXP, Author: SUBBURAJ, Publisher: Mc Graw Hill, Subject: Business Administration
+Title: UNIX Concepts and applications, Author: Das Sumitabha, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: WASTE WATER TREATMENT FOR POLLUTION -EXP, Author: ASOLEKAR, Publisher: Mc Graw Hill, Subject: Civil Engg.
+Title: Web technologies, Author: Godbole Achyout, Publisher: Mc Graw Hill, Subject: Computer Science
+Title: A course in abstract algebra, Author: Khanna Vijay K;Bhambri S K, Publisher: Vikas, Subject: Mathematics
+Title: A text book of optics, Author: Dr.N. Subrahmanyam, Publisher: S Chand, Subject: Physics
+Title: A text book of production technology, Author: Sharma P C, Publisher: S Chand, Subject: Mechanical Engg
+Title: A textbook of biotechnology, Author: Dubey R C, Publisher: S Chand, Subject: Biosciences
+Title: A textbook of cost and management accounting, Author: Arora M N, Publisher: Vikas, Subject: Mathematics
+Title: A textbook of electrical technology, Author: Theraja B L, Publisher: S Chand, Subject: Electrical Engg.
+Title: A textbook of manufacturing technology - II, Author: Sharma P C, Publisher: S Chand, Subject: Mechanical Engg
+Title: A textbooks Engineering Chemistry, Author: Dara S S, Publisher: S Chand, Subject: Chemistry
+Title: Advanced differential equations, Author: Raisinghania M. D., Publisher: S Chand, Subject: Methematics
+Title: Advanced engineering mathematics, Author: Dass H K, Publisher: S Chand, Subject: Methematics
+Title: Analytical solid gemetry, Author: Narayan Shanti, Publisher: S Chand, Subject: Mechanical Engg.
+Title: Basic Electronics: Solid state, Author: B. L. Thereja, Publisher: S Chand, Subject: Electronics Engg.
+Title: Botany for Degree Students (For B.Sc. First Year)                 
+                                   , Author: Pandey B P, Publisher: S Chand, Subject: Biosciences
+Title: Business law, Author: Kuchhal M C, Publisher: Vikas, Subject: Management
+Title: Business statistics, Author: Sharma J K, Publisher: Vikas, Subject: Management
+Title: Company law and practice, Author: Nolakha Ratan, Publisher: Vikas, Subject: Management
+Title: Cost accounting, Author: Arora M N, Publisher: Vikas, Subject: Management
+Title: Development economics, Author: Ahuja H L, Publisher: S Chand, Subject: Economics
+Title: Differential calculus, Author: Narayan Shanti, Publisher: S Chand, Subject: Mathematics
+Title: Essentials of physical chemistry, Author: Bahl Arun, Publisher: S Chand, Subject: Chemistry
+Title: Financial accounting, Author: Maheshwari S N, Publisher: Vikas, Subject: Management
+Title: High school grammar and composition, Author: Wren P C, Publisher: S Chand, Subject: English
+Title: Indian economy, Author: Datt Gaurav, Publisher: S Chand, Subject: Economics
+Title: Integral calculus, Author: Narayan Shanti, Publisher: S Chand, Subject: Mathematics
+Title: Macroeconomics, Author: Ahuja H L, Publisher: S Chand, Subject: Economics
+Title: Managerial economics, Author: Ahuja H L, Publisher: S Chand, Subject: Economics
+Title: Modern Inorganic Chemistry                                        
+                                                                             
+ , Author: Madan R L, Publisher: S Chand, Subject: Chemistry   
+Title: Modern physics, Author: Murugeshan R., Publisher: S Chand, Subject: Physics
+Title: Ordinary & Partial Differential Equation, Author: Raisinghania MD, Publisher: S Chand, Subject: Mathematics
+Title: Power system anlaysis and design, Author: Gupta B R, Publisher: S Chand, Subject: Electrical Engg.
+Title: Soft skills, Author: Alex K, Publisher: S Chand, Subject: Management
+Title: 101 Ready - To - Use Excel Macros, Author: Alexander, Publisher: Wiley, Subject: CSE Engg.
+Title: A Textbook of Economic Botany and Ethnobotany, Author: Alam, Publisher: Wiley, Subject: Biosciences
+Title: Advanced engineering mathematics, Author: Taneja H C, Publisher: I K international , Subject: Methematics
+Title: Advanced engineering mathematics, Author: Kreyszig Erwin, Publisher: Wiley, Subject: Methematics
+Title: Advances in Computer Vision and Information Technolgy, Author: Kale, Publisher: Wiley, Subject: CSE Engg.
+Title: An Introduction to Medicinal Chemistry, Author: Kundu, Publisher: Wiley, Subject: Chemistry
+Title: Antenna theory, Author: Balanis Contantine, Publisher: Wiley, Subject: Electronics Engg.
+Title: Artificial Intelligence in Practice How 50 Successful Companies Used AI and Machine Learning to Solve Problems, Author: Marr, Publisher: Wiley, Subject: CSE Engg.
+Title: AWS Certified Developer Official Study Guide, Author: Roth, Publisher: Wiley, Subject: CSE Engg.
+Title: AWS Certified Solutions Architect Practice Tests, Author: McLaughlin, Publisher: Wiley, Subject: CSE Engg.
+Title: Basic Techniques in Biochemistry and Molecular Biology, Author: RK Sharma, Publisher: Wiley, Subject: Biosciences
+Title: Big data and analytics, Author: Seema Acharya, Publisher: Wiley, Subject: Computer Science
+Title: Blockchain Technology: Concepts and Applications, Author: Kumar, Publisher: Wiley, Subject: Business Administration
+Title: "Callisters materials science and engineering", Author: Callister William D, Publisher: Wiley, Subject: Mechanical Engineering    
+Title: Cell and Molecular Biology, Author: Khanna, Publisher: Wiley, Subject: Biosciences
+Title: Chemical reaction engineering, Author: Levenspiel Octave, Publisher: Wiley, Subject: Chemical Engg
+Title: Cloud Computing: Principles and Paradigms, Author: Buyya, Publisher: Wiley, Subject: CSE Engg.
+Title: Concise Inorganic Chemistry, Author: Lee J D, Publisher: Wiley, Subject: Chemistry
+Title: "Construction Managers BIM Handbook", Author: Eynon, Publisher: Wiley, Subject: Civil 6ngg.
+Title: Cryptography and security, Author: Shyamala C K, Publisher: Wiley, Subject: Computer Science
+Title: Data Analytics, Author: Shankarmani, Publisher: Wiley, Subject: CSE Engg.
+Title: Data structures and agorithms in python, Author: Goodrich MIchael, Publisher: Wiley, Subject: Computer Science
+Title: Data structures using C & C++, Author: Shukla Rajesh, Publisher: Wiley, Subject: Computer Science
+Title: Database management systems, Author: Gill P S, Publisher: I K international , Subject: Computer Science
+Title: Deep Learning For Dummies, Author: Mueller, Publisher: Wiley, Subject: CSE Engg.
+Title: DevOps For Dummies, Author: Freeman, Publisher: Wiley, Subject: CSE Engg.
+Title: Engineering mathematics, Author: Mujawar C S, Publisher: Wiley, Subject: Mathematics
+Title: Essentials of R for Data Analytics, Author: Ratnoo , Publisher: Wiley, Subject: CSE Engg.
+Title: Ethnobotany: Principles and Applications, Author: Cotton, Publisher: Wiley, Subject: Biosciences
+Title: Excel VBA 24 Hour Trainer, Author: Urtis, Publisher: Wiley, Subject: CSE Engg.
+Title: FinTech Innovation, Author: Sironi, Publisher: Wiley, Subject: Business Administration
+Title: Fundamentals of Heterocyclic Chemistry: Importance in Nature and in the Synthesis of Pharmaceuticals, Author: Quin, Publisher: Wiley, Subject: Chemistry
+Title: Fundamentals of Soft Computing and Intelligent System, Author: Gulwani, Publisher: Wiley, Subject: CSE Engg.
+Title: GitHub For Dummies, Author: Guthals, Publisher: Wiley, Subject: CSE Engg.
+Title: industrial and organizational psychology, Author: Spector Paul E, Publisher: Wiley, Subject: Psychology
+Title: Industrial Biotechnology: Problems and Remedies, Author: Thakur, Publisher: Wiley, Subject: Biosciences
+Title: Industrial Microbiology, Author: Wilson, Publisher: Wiley, Subject: Biosciences
+Title: Information Retrieval Models and Concepts, Author: Soni, Publisher: Wiley, Subject: CSE Engg.
+Title: International economics, Author: Salvatore Dominick, Publisher: Wiley, Subject: Economics
+Title: Introduction to Parallel Computing, Author: Chiplunkar, Publisher: Wiley, Subject: CSE Engg.
+Title: Introduction to robotics, Author: Niku Saeed B, Publisher: Wiley, Subject: Mechanical Engg.
+Title: "Karps Cell and molecular biology ", Author: Karp, Publisher: Wiley, Subject: Biosciences
+Title: Keras to Kubernetes: The Journey of a Machine Learning Model to Production, Author: Rao, Publisher: Wiley, Subject: CSE Engg.    
+Title: Machine Learning in Python: Essential Techniques for Predictive Analysis, Author: Bowles, Publisher: Wiley, Subject: CSE Engg.   
+Title: Molecular Biology: A Laboratory Manual, Author: Gakhar, Publisher: Wiley, Subject: Biosciences
+Title: Multivariate Time Series Analysis - With R and Financial Applications, Author: Tsay, Publisher: Wiley, Subject: CSE Engg.        
+Title: Natural Products in Medicinal Chemistry, Author: Hanessian, Publisher: Wiley, Subject: Chemistry
+Title: Network Security Bible, Author: Cole, Publisher: Wiley, Subject: CSE Engg.
+Title: Networking, Author: Beasley, Publisher: Wiley, Subject: Computer Applications
+Title: Organic Synthesis: Strategy and Control, Author: Wyatt, Publisher: Wiley, Subject: Chemistry
+Title: Personality Development and Soft Skills: Preparing for Tomorrow, Author: Kapoor, Publisher: Wiley, Subject: Business Administration
+Title: Physics, Author: Halliday David, Publisher: Wiley, Subject: Physics
+Title: Principles Of Physics, Author: Walker Jearl;Holliday David;Resnick Robert, Publisher: Wiley, Subject: Physics
+Title: Principles of soft computing, Author: Sivanandam S N, Publisher: Wiley, Subject: Computer Science
+Title: Python for data science, Author: Mueller John Paul, Publisher: Wiley, Subject: Computer Science
+Title: Satellite communication, Author: Pratt Timothy, Publisher: Wiley, Subject: Electronics Engg.
+Title: Social Network Analysis, Author: Chakraborty, Publisher: Wiley, Subject: CSE Engg.
+Title: Statistical Analysis with R For Dummies, Author: Schmuller, Publisher: Wiley, Subject: CSE Engg.
+Title: Text Mining in Practice with R, Author: Kwartler, Publisher: Wiley, Subject: CSE Engg.
+Title: The Handbook of Computational Linguistics and Natural Language Processing , Author: Clark, Publisher: Wiley, Subject: CSE Engg.
