@@ -1,0 +1,41 @@
+Cabin location:
+
+Dr. Amit Soni - Faculty Block 2, 2nd Floor, AB1
+Dr. Sunil Goyal - Faculty Block 2, 2nd Floor, AB1
+Dr. Neeraj Kanwar - Faculty Block 2, 2nd Floor, AB1
+Mr. Vinay Gupta - Faculty Block 2, 2nd Floor, AB1
+Mr. Vikas Kumar Boradak - Faculty Block 2, 2nd Floor, AB1
+Mr. Abhishek Kumar - Faculty Block 2, 2nd Floor, AB1
+Mr. Himanshu Priyadarshi - Faculty Block 2, 2nd Floor, AB1
+Mr. Divya Rishi Shrivastava - Faculty Block 2, 2nd Floor, AB1
+Dr. Amit Saraswat - Faculty Block 2, 2nd Floor, AB1
+Dr. Manish Thukral - Faculty Block 2, 2nd Floor, AB1
+Dr. Vishnu Goyal - Faculty Block 2, 2nd Floor, AB1
+Mr. Samarendra Pratap Singh - Faculty Block 2, 2nd Floor, AB1
+Mr. Peeyush Garg - Faculty Block 2, 2nd Floor, AB1
+Mr. Ritesh Singh - Faculty Block 2, 2nd Floor, AB1
+Mr. Satya Narayan Agarwal - Faculty Block 2, 2nd Floor, AB1 
+Dr. Ashish Malik - Faculty Block 1, 1st Floor, AB1 
+Mr. Dalip Singh Shekhawat - Faculty Block 1, 1st Floor, AB1 
+Dr. Rakesh Kumnar - Faculty Block 1, 1st Floor, AB1 
+Dr. Manish Rawat - Faculty Block 1, 1st Floor, AB1 
+Dr. Hemant Kumar - Faculty Block 1, 1st Floor, AB1 
+Mr. Varun Jurnwall - Faculty Block 1, 1st Floor, AB1 
+Mr. Mohit Jain - Faculty Block 1, 1st Floor, AB1 
+Dr. Vinod Yadav - Faculty Block 1, 1st Floor, AB1 
+Dr. Ashu Yadav - Faculty Block 1, 1st Floor, AB1 
+Mr. Dharmesh Yadav - Faculty Block 1, 1st Floor, AB1 
+Mr. Binay Kumar Rajak - Faculty Block 1, 1st Floor, AB1 
+Dr. Alay Kumar - Faculty Block 1, 1st Floor, AB1 
+Dr. Prabhat Ranjan - Faculty Block 1, 1st Floor, AB1 
+Mr. Ashok Kumawat - Faculty Block 1, 1st Floor, AB1 
+Mr. Nikhil Vivek Shrivas - Faculty Block 1, 1st Floor, AB1 
+Dr. V.S. Dhaka - Faculty Block 4, 3rd Floor, AB1
+Dr. Sunil Kumar - Faculty Block 4, 3rd Floor, AB1
+Dr. Deepak Sinwar - Faculty Block 4, 3rd Floor, AB1
+Dr. Arjun Singh - Faculty Block 4, 3rd Floor, AB1
+Dr. Amita Nandal - Faculty Block 4, 3rd Floor, AB1
+Dr. Dinesh Kr Saini - Faculty Block 4, 3rd Floor, AB1
+Dr. Vijay Kumar Sharma - Faculty Block 4, 3rd Floor, AB1
+Dr. Ghanshyam Raghuvanshi - Faculty Block 4, 3rd Floor, AB1
+Dr. Kusum Lata Jain - Faculty Block 4, 3rd Floor, AB1

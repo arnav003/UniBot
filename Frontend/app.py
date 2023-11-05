@@ -4,26 +4,49 @@ import requests
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-api_key = "VF.DM.65468c3d7e31c10008fce21a.PjgHlO9XFYAvgbUk"
-user_id = "user_100"
+api_key = st.secrets["voiceflow_key"]
+user_id = st.secrets["user_id"]
 
 st.set_page_config(page_title='UniBot', page_icon='Resources/bot3.png', layout="wide",
                    initial_sidebar_state="collapsed")
 
 
 def generate_response(user_input):
-    body = {"action": {"type": "text", "payload": f"{user_input}"}}
+    url = f"https://general-runtime.voiceflow.com/state/user/{user_id}/interact"
+
+    payload = {"action": {
+        "type": "text",
+        "payload": f"{user_input}"
+    },
+        "config": {
+            "tts": False,
+            "stripSSML": True,
+            "stopAll": True,
+            "excludeTypes": ["block", "debug", "flow"]
+        }
+    }
+
+    headers = {
+        "accept": "application/json",
+        "content-type": "application/json",
+        "Authorization": api_key
+    }
 
     # Start a conversation
     response = requests.post(
-        f"https://general-runtime.voiceflow.com/state/user/{user_id}/interact",
-        json=body,
-        headers={"Authorization": api_key},
+        url=url,
+        json=payload,
+        headers=headers,
     )
-
-    output = response.json()[1]["payload"]["slate"]["content"]
-    output_list = [o['children'][0]['text'] for o in output]
-    return "".join(output_list)
+    try:
+        output = response.json()
+        message = None
+        for o in output:
+            if o["type"] == 'text':
+                message = o["payload"]["message"]
+        return message
+    except KeyError:
+        return "Error occurred. Can't connect to servers."
 
 
 def chat():
