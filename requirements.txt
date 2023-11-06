@@ -3,3 +3,4 @@ hydralit
 hydralit-components
 streamlit-option-menu
 streamlit-extras
+st-pages

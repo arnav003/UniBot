@@ -4,6 +4,9 @@ import pandas as pd
 import streamlit as st
 from streamlit_extras.switch_page_button import switch_page
 from streamlit_option_menu import option_menu
+from st_pages import hide_pages
+
+hide_pages(["Chat", "Admin"])
 
 PAGE_INDEX = 1
 
@@ -25,7 +28,7 @@ def get_table_download_link(df, filename, text):
 
 with st.sidebar:
     pages = ["Chat", "Admin"]
-    pages_id = ["app", "admin"]
+    pages_id = ["chat", "admin"]
     pages_icon = ["chat-left", "person-check"]
     selected = option_menu(
         menu_title=None,
@@ -35,9 +38,9 @@ with st.sidebar:
     )
     if pages.index(selected) != PAGE_INDEX:
         if selected == 'Chat':
-            switch_page("app")
+            switch_page(pages_id[pages.index(selected)])
         if selected == 'Admin':
-            switch_page("admin")
+            switch_page(pages_id[pages.index(selected)])
 
 if st.session_state['admin_logged_in'] == False:
     st.markdown('### Welcome to Admin Portal')

@@ -1,7 +1,18 @@
 import streamlit as st
+from pathlib import Path
 import requests
 from streamlit_option_menu import option_menu
 from streamlit_extras.switch_page_button import switch_page
+from st_pages import add_page_title, show_pages, Page, hide_pages
+
+show_pages(
+    [
+        Page("Frontend/app.py", "Chat"),
+        Page("Frontend/pages/admin.py", "Admin"),
+    ]
+)
+# add_page_title()
+hide_pages(["Chat", "Admin"])
 
 PAGE_INDEX = 0
 
@@ -11,12 +22,12 @@ if "messages" not in st.session_state:
 api_key = st.secrets["voiceflow_key"]
 user_id = st.secrets["user_id"]
 
-st.set_page_config(page_title='UniBot', page_icon='Resources/bot_full_square_transparent.png', layout="wide",
-                   initial_sidebar_state="collapsed")
+# st.set_page_config(page_title='UniBot', page_icon='Resources/bot_full_square_transparent.png', layout="wide",
+#                    initial_sidebar_state="collapsed")
 
 with st.sidebar:
     pages = ["Chat", "Admin"]
-    pages_id = ["app", "admin"]
+    pages_id = ["chat", "admin"]
     pages_icon = ["chat-left", "person-check"]
     selected = option_menu(
         menu_title=None,
@@ -26,9 +37,9 @@ with st.sidebar:
     )
     if pages.index(selected) != PAGE_INDEX:
         if selected == 'Chat':
-            switch_page("app")
+            switch_page(pages_id[pages.index(selected)])
         if selected == 'Admin':
-            switch_page("admin")
+            switch_page(pages_id[pages.index(selected)])
 
 
 def generate_response(user_id, request):
