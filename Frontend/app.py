@@ -7,7 +7,7 @@ if "messages" not in st.session_state:
 api_key = st.secrets["voiceflow_key"]
 user_id = st.secrets["user_id"]
 
-st.set_page_config(page_title='UniBot', page_icon='Resources/bot3.png', layout="wide",
+st.set_page_config(page_title='UniBot', page_icon='Resources/bot_full_square_transparent.png', layout="wide",
                    initial_sidebar_state="collapsed")
 
 
@@ -36,15 +36,15 @@ def generate_response(user_id, request):
         # Start a conversation
         response = requests.post(
             url=url,
-            json={ 'request': request },
+            json={'request': request},
             headers=headers,
         )
         try:
             output = response.json()
-            message = None
+            message = ""
             for trace in output:
                 if trace["type"] == 'text' or trace["type"] == 'speak':
-                    message = trace["payload"]["message"]
+                    message = message + trace["payload"]["message"]
                 elif trace['type'] == 'end':
                     return None
             return message
@@ -55,7 +55,7 @@ def generate_response(user_id, request):
 def chat():
     with st.container():
         if st.session_state.messages == []:
-            response = generate_response(user_id, { 'type': 'launch' })
+            response = generate_response(user_id, {'type': 'launch'})
             if response == None:
                 response = '''I am an AI assistant for Manipal University Jaipur.
                 Ask me anything!'''
@@ -67,14 +67,16 @@ def chat():
                 with st.chat_message(name="user", avatar="./Resources/user.jpeg"):
                     st.write(message["content"])
             elif message["role"] == "assistant":
-                with st.chat_message(name="assistant", avatar="./Resources/bot2.png"):
+                with st.chat_message(name="assistant", avatar="./Resources/bot_head_square.png"):
                     st.write(message["content"])
 
         user_input = st.chat_input("Enter your query.")
 
         if user_input is not None and user_input.strip() != "":
             st.session_state.messages.append({"role": "user", "content": user_input})
-            response = generate_response(user_id, { 'type': 'text', 'payload': user_input })
+            with st.chat_message(name="user", avatar="./Resources/user.jpeg"):
+                st.write(user_input)
+            response = generate_response(user_id, {'type': 'text', 'payload': user_input})
             st.session_state.messages.append({"role": "assistant", "content": response})
             st.rerun()
 

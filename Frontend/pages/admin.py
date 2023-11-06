@@ -25,12 +25,13 @@ if st.session_state['admin_logged_in'] == False:
     ad_user = st.text_input("Username")
     ad_password = st.text_input("Password", type='password')
     if st.button('Login'):
-        if ad_user == 'admin' and ad_password == '123456':
+        if ad_user == st.secrets["admin_id"] and ad_password == st.secrets["admin_pass"]:
             st.session_state['admin_logged_in'] = True
+            st.rerun()
         else:
             st.error("Wrong ID or Password.")
 else:
-    st.success("Welcome Admin")
+    # st.success("Welcome Admin")
 
     st.markdown('### Admin Portal')
 
@@ -83,3 +84,7 @@ else:
         if st.session_state.book_df is not None:
             st.markdown(get_table_download_link(st.session_state.book_df, "new_event.csv", "Download Data"),
                         unsafe_allow_html=True)
+
+    if st.button("Log out"):
+        st.session_state['admin_logged_in'] = False
+        st.rerun()
