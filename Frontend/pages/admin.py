@@ -2,6 +2,10 @@ import base64
 
 import pandas as pd
 import streamlit as st
+from streamlit_extras.switch_page_button import switch_page
+from streamlit_option_menu import option_menu
+
+PAGE_INDEX = 1
 
 if 'admin_logged_in' not in st.session_state:
     st.session_state['admin_logged_in'] = False
@@ -19,6 +23,21 @@ def get_table_download_link(df, filename, text):
     href = f'<a href="data:file/csv;base64,{b64}" download="{filename}">{text}</a>'
     return href
 
+with st.sidebar:
+    pages = ["Chat", "Admin"]
+    pages_id = ["app", "admin"]
+    pages_icon = ["chat-left", "person-check"]
+    selected = option_menu(
+        menu_title=None,
+        options=pages,
+        icons=pages_icon,
+        default_index=PAGE_INDEX
+    )
+    if pages.index(selected) != PAGE_INDEX:
+        if selected == 'Chat':
+            switch_page("app")
+        if selected == 'Admin':
+            switch_page("admin")
 
 if st.session_state['admin_logged_in'] == False:
     st.markdown('### Welcome to Admin Portal')

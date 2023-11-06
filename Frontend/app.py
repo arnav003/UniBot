@@ -1,5 +1,9 @@
 import streamlit as st
 import requests
+from streamlit_option_menu import option_menu
+from streamlit_extras.switch_page_button import switch_page
+
+PAGE_INDEX = 0
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -9,6 +13,22 @@ user_id = st.secrets["user_id"]
 
 st.set_page_config(page_title='UniBot', page_icon='Resources/bot_full_square_transparent.png', layout="wide",
                    initial_sidebar_state="collapsed")
+
+with st.sidebar:
+    pages = ["Chat", "Admin"]
+    pages_id = ["app", "admin"]
+    pages_icon = ["chat-left", "person-check"]
+    selected = option_menu(
+        menu_title=None,
+        options=pages,
+        icons=pages_icon,
+        default_index=PAGE_INDEX
+    )
+    if pages.index(selected) != PAGE_INDEX:
+        if selected == 'Chat':
+            switch_page("app")
+        if selected == 'Admin':
+            switch_page("admin")
 
 
 def generate_response(user_id, request):

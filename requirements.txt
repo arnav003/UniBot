@@ -1,3 +1,5 @@
 streamlit
 hydralit
-hydralit_components
+hydralit-components
+streamlit-option-menu
+streamlit-extras
