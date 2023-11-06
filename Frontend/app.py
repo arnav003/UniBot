@@ -40,6 +40,7 @@ def generate_response(user_input):
     )
     try:
         output = response.json()
+        print(output)
         message = None
         for o in output:
             if o["type"] == 'text':
@@ -59,7 +60,9 @@ def chat():
                     "content": user_input,
                 },
             ]
-            response = generate_response(user_input)
+            # response = generate_response(user_input)
+            response = '''I am an AI assistant for Manipal University Jaipur.
+            Ask me anything!'''
             st.session_state.messages.append({"role": "assistant", "content": response})
             st.rerun()
 

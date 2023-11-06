@@ -1,4 +1,7 @@
-  Name :  Dr. Abhay Sharma ,  Department :  Department of Computer and Communication Engineering ,  Post :  Assistant Professor(Selection Grade)  ,  Email :  abhay.sharma@jaipur.manipal.edu ,  Phone :  9887742809  
+This is list of faculties in Manipal University Jaipur.
+
+
+  Name :  Dr. Abhay Sharma ,  Department :  Department of Computer and Communication Engineering ,  Post :  Assistant Professor(Selection Grade)  ,  Email :  abhay.sharma@jaipur.manipal.edu ,  Phone :  9887742809
 
   Name :  Dr Abhishek Shrivastava ,  Department :  Department of Electronics & Communication Engineering ,  Post :  Associate Professor ,  Email :  abhishek.shrivastava@jaipur.manipal.edu ,  Phone :  0141-3999100 extn. 577  
 

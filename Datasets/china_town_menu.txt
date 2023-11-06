@@ -1,4 +1,4 @@
-CHINA TOWN
+This is the menu of China Town.
 
 SOUP VEG :
  Veg sweet corn soup :90
@@ -47,7 +47,7 @@ APPETIZERS NON VEG :
  Dragon chicken :195
  Chicken 65 :195
 
-Noodles/Rice :
+NOODLES / RICE :
  Veg fried rice :95
  Egg fried rice :120
  Chicken fried rice :140
@@ -99,11 +99,12 @@ DIMSUM (MOMOS) :
  Cheese Mushroom dimsum :110
 
 COMBO MEAL VEG :
-Manchurian combo with choice of rice / noodles :140
-Hot garlic sauce combo with choice of rice / noodles :140
-Paneer chilly combo with choice of rice / noodles :160
+ Manchurian combo with choice of rice / noodles :140
+ Hot garlic sauce combo with choice of rice / noodles :140
+ Paneer chilly combo with choice of rice / noodles :160
+
 COMBO MEAL NON VEG :
-Chilly chicken combo with choice of rice / noodles :190
-Chicken hot garlic sauce combo with choice of rice / noodles :190
-Chicken manchurian gravy combo with choice of rice / noodles :190
+ Chilly chicken combo with choice of rice / noodles :190
+ Chicken hot garlic sauce combo with choice of rice / noodles :190
+ Chicken manchurian gravy combo with choice of rice / noodles :190
 
