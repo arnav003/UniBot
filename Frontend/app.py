@@ -18,9 +18,13 @@ PAGE_INDEX = 0
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
+if "user_id" not in st.session_state:
+    st.session_state.user_id = None
+if "show_details_page" not in st.session_state:
+    st.session_state.show_details_page = True
 
 api_key = st.secrets["voiceflow_key"]
-user_id = st.secrets["user_id"]
+# user_id = st.secrets["user_id"]
 
 # st.set_page_config(page_title='UniBot', page_icon='Resources/bot_full_square_transparent.png', layout="wide",
 #                    initial_sidebar_state="collapsed")
@@ -83,11 +87,23 @@ def generate_response(user_id, request):
             return "Error occurred. Can't connect to servers."
 
 
-def chat():
+def get_details():
     with st.container():
-        if st.session_state.messages == []:
-            response = generate_response(user_id, {'type': 'launch'})
-            if response == None:
+        col1, col2 = st.columns(2)
+        name = col1.text_input("Enter your name")
+        unique_id = col2.text_input("Enter a four digit unique code")
+        if st.button("Login") and name and unique_id:
+            st.session_state.user_id = name+unique_id
+            st.session_state.show_details_page = False
+            st.rerun()
+
+
+
+def chat():
+    # with st.container():
+        if not st.session_state.messages:
+            response = generate_response(st.session_state.user_id, {'type': 'launch'})
+            if response is None:
                 response = '''I am an AI assistant for Manipal University Jaipur.
                 Ask me anything!'''
             st.session_state.messages.append({"role": "assistant", "content": response})
@@ -107,7 +123,7 @@ def chat():
             st.session_state.messages.append({"role": "user", "content": user_input})
             with st.chat_message(name="user", avatar="./Resources/user.jpeg"):
                 st.write(user_input)
-            response = generate_response(user_id, {'type': 'text', 'payload': user_input})
+            response = generate_response(st.session_state.user_id, {'type': 'text', 'payload': user_input})
             st.session_state.messages.append({"role": "assistant", "content": response})
             st.rerun()
 
@@ -123,4 +139,7 @@ def readHTML(htmlFile):
 
 
 st.markdown(readHTML('Frontend/app.html'), unsafe_allow_html=True)
-chat()
+if st.session_state["show_details_page"]:
+    get_details()
+else:
+    chat()
