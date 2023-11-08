@@ -3,6 +3,7 @@ from pathlib import Path
 import requests
 from streamlit_option_menu import option_menu
 from streamlit_extras.switch_page_button import switch_page
+from streamlit_extras.app_logo import add_logo
 from st_pages import add_page_title, show_pages, Page, hide_pages
 
 show_pages(
@@ -14,6 +15,8 @@ show_pages(
 # add_page_title()
 hide_pages(["Chat", "Admin"])
 
+add_logo("./Resources/bot_full_square_transparent_small.png", height=140)
+# st.sidebar.image("./Resources/bot_full_square_transparent.png")
 PAGE_INDEX = 0
 
 if "messages" not in st.session_state:
